@@ -1,0 +1,15 @@
+api/settings.py
+  h_b91063dbd228f5 14,97-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "autter_version": "2.2.0",
+  "base_commit_sha": "32d8582a6ec8bda9e4a62a6647864eb6df4e5b35",
+  "branch": "main",
+  "prompts": {},
+  "humans": {
+    "h_b91063dbd228f5": {
+      "author": "Rekhapalli Uma Satya Santosh <santoshrekahapalli@gmail.com>"
+    }
+  }
+}
