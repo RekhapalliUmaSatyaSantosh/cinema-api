@@ -1,0 +1,15 @@
+.gitignore
+  h_b91063dbd228f5 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "autter_version": "2.2.0",
+  "base_commit_sha": "f790b529d5269cb75e8270e8ebda4859693f2dab",
+  "branch": "master",
+  "prompts": {},
+  "humans": {
+    "h_b91063dbd228f5": {
+      "author": "Rekhapalli Uma Satya Santosh <santoshrekahapalli@gmail.com>"
+    }
+  }
+}
