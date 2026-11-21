@@ -4,7 +4,7 @@ from django.conf import settings
 # Create your models here.
 class Movie(models.Model):
     title = models.CharField(max_length=200)
-    poster_url = models.URLField(blank=True)
+    poster_url = models.TextField(blank=True)
     plot = models.TextField()
     release_date = models.DateField()
     genre = models.JSONField(default=list)
