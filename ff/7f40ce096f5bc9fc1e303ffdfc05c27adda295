@@ -1,0 +1,17 @@
+home/management/commands/bootstrap_admin.py
+  h_b91063dbd228f5 1-35
+home/models.py
+  h_b91063dbd228f5 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "autter_version": "2.2.0",
+  "base_commit_sha": "ff7f40ce096f5bc9fc1e303ffdfc05c27adda295",
+  "branch": "main",
+  "prompts": {},
+  "humans": {
+    "h_b91063dbd228f5": {
+      "author": "Rekhapalli Uma Satya Santosh <santoshrekahapalli@gmail.com>"
+    }
+  }
+}
